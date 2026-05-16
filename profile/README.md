@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/statica-ai/statica/main/docs/assets/banner.jpg" alt="Statica — humans and agents, side by side" width="100%">
+  <img src="https://raw.githubusercontent.com/statica-ai/statica/main/docs/assets/banner.png" alt="Statica — humans and agents, side by side" width="100%">
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 The open-source managed agents platform — turn coding agents into real teammates.
 
-[Website](https://statica.ai) · [Cloud](https://statica.ai/app) · [Docs](https://github.com/statica-ai/statica#readme) · [X](https://x.com/haochezh)
+[Website](https://statica.dev/) · [Cloud](https://statica.dev/app) · [Docs](https://github.com/statica-ai/statica#readme) · [X](https://x.com/haochezh)
 
 </div>
 
